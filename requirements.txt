@@ -1,0 +1,11 @@
+typer[all]
+rich
+requests
+gspread
+google-auth-oauthlib
+pydantic[email]
+python-dotenv
+PyYAML
+google-generativeai
+email-validator
+apify-client
