@@ -161,10 +161,10 @@ def run_discovery(
         
         # Define default target criteria
         default_targets = {
-            "company_size": "1-50",
-            "industry": "Technology",
-            "location": "United States",
-            "job_titles": ["CEO", "Founder", "CTO", "VP"]
+            "company_size": "1-1000",
+            "industry": "All",
+            "location": "Germany",
+            "job_titles": ["HR","IT LEITER","Head of IT","CEO","CTO"]
         }
         
         # Run the discovery workflow
